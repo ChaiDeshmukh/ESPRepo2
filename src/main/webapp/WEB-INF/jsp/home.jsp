@@ -50,7 +50,7 @@
 
 <div id="container1">
 
-<strong> Hey Chaitrali! Welcome to nutrition website!</strong>
+<strong> Hey Everyone! Welcome to nutrition website!</strong>
 <form method="GET" action="/checkCalories">
 	<input type=submit class="btn btn-danger" value='Check your Calories' >
 	</form>
