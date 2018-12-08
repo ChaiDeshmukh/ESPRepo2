@@ -374,7 +374,7 @@ padding: 10px 20px;width:50%;
 
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
-  <h1 class="margin">Hello Everyone! Welcome to the Nutrition Website</h1>
+  <h1 class="margin">Hello Professor! Welcome to the Nutrition Website</h1>
   <h3 class="margin">The greatest wealth is health.</h3>
   <img src="https://www.careersunclenoir.org/wp-content/uploads/2017/03/DrHunterYostHealthyHeart-wide-crop.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Food" width="400" height="400">
   <h3>Eating healthy food can make your brain and body both efficient and better.</h3>
